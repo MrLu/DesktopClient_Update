@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DsymTool</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 12 Jul 2022 19:42:09 +0800</pubDate>
+            <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
+            <enclosure url="DsymTool.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="2040079" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
