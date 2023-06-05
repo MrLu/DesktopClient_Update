@@ -3,7 +3,7 @@
     <channel>
         <title>DsymTool</title>
         <item>
-            <title>1.0</title>
+            <title>1.1</title>
             <pubDate>Tue, 12 Jul 2022 19:42:09 +0800</pubDate>
             <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/MrLu/DesktopDsymTool/releases/download/1.1/DsymTool.dmg" sparkle:version="1" sparkle:shortVersionString="1.1" length="5087032" type="application/octet-stream"/>
