@@ -4,12 +4,9 @@
         <title>DsymTool</title>
         <item>
             <title>1.1</title>
-            <item>
-            <title>1.1</title>
-            <pubDate>Mon, 05 Jun 2023 18:06:56 +0800</pubDate>
+            <pubDate>Mon, 05 Jun 2023 18:29:39 +0800</pubDate>
             <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
             <enclosure url="https://roombox-dev-1252350207.cos.ap-beijing.myqcloud.com/Tools/DSYMTools/DsymTool.zip" sparkle:version="2" sparkle:shortVersionString="1.1" length="5300256" type="application/octet-stream"/>
-        </item>
         </item>
     </channel>
 </rss>
