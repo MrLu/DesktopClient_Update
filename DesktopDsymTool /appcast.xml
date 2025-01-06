@@ -1,12 +1,20 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>DsymTool</title>
+        <title>DsymTool Changelog</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
         <item>
             <title>1.1</title>
             <pubDate>Mon, 05 Jun 2023 18:29:39 +0800</pubDate>
             <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
             <enclosure url="https://roombox-dev-1252350207.cos.ap-beijing.myqcloud.com/Tools/DSYMTools/DsymTool.zip" sparkle:version="2" sparkle:shortVersionString="1.1" length="5300256" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>1.2</title>
+            <pubDate>Mon, 05 Jun 2023 18:29:39 +0800</pubDate>
+            <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/MrLu/DesktopDsymTool/releases/download/1.2/DsymTool.dmg" sparkle:version="3" sparkle:shortVersionString="1.3" length="5300256" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
