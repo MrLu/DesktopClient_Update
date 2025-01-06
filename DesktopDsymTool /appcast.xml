@@ -14,7 +14,7 @@
             <title>1.2</title>
             <pubDate>Mon, 05 Jun 2023 18:29:39 +0800</pubDate>
             <sparkle:minimumSystemVersion>11.1</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/MrLu/DesktopDsymTool/releases/download/1.2/DsymTool.dmg" sparkle:version="3" sparkle:shortVersionString="1.3" length="5300256" type="application/octet-stream"/>
+            <enclosure url="https://github.com/MrLu/DesktopDsymTool/releases/download/1.2/DsymTool.dmg" sparkle:version="3" sparkle:shortVersionString="1.2" length="5300256" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
